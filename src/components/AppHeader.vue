@@ -4,7 +4,9 @@ export default {
 };
 </script>
 
+
 <template>
+  <!-- header dentro a un container come altri elementi del layout -->
   <header>
     <div class="container">
       <div class="logo">
