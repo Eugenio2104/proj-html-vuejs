@@ -93,6 +93,7 @@ export default {
       @include centralFlex("vertical");
       flex-direction: column;
       padding: 30px;
+      background-image: url("../assets/img/home.png");
       a {
         text-decoration: none;
         &.active,
