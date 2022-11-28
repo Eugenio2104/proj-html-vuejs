@@ -1,5 +1,5 @@
 <script>
-import welcome from "./addcomponents/welcome.vue";
+import welcome from "./addComponents/welcome.vue";
 
 export default {
   name: "AppMain",
