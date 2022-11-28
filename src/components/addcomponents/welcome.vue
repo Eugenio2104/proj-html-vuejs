@@ -38,10 +38,6 @@ export default {
         <div class="eb-card col-1 offset-2"></div>
         <div class="eb-card col-1 offset-2"></div>
       </div>
-      <div class="container-gray">
-        <div class="elements"></div>
-        <div class="carousel-thumb"></div>
-      </div>
     </div>
   </div>
 </template>
