@@ -1,16 +1,16 @@
 <script>
-import welcome from "./addComponents/welcome.vue";
+import Welcome from "./addComponents/Welcome.vue";
 
 export default {
   name: "AppMain",
   components: {
-    welcome,
+    Welcome,
   },
 };
 </script>
 
 <template>
-  <welcome />
+  <Welcome />
 </template>
 
 

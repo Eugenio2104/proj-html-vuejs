@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: "welcome",
+  name: "Welcome",
   data() {
     return {
       cardElements: [
@@ -69,7 +69,7 @@ export default {
         background-size: 40px;
         background-position: center;
         background-repeat: no-repeat;
-        background-color: red;
+        background-color: $primary-color;
 
         margin-top: 50px;
         width: 120px;
